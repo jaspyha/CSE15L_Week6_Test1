@@ -43,7 +43,7 @@ class ListExamples {
       index1 += 1;
     }
     
-    Collections.sort(result);
+    ArrayList.sort(result);
     return result;
   }
 
